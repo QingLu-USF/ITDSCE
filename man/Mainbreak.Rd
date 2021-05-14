@@ -11,7 +11,7 @@ Number of main breaks of pipes of various diameters and lengths in a Florida cit
 \format{
 A data frame with 360 observations on the following 4 variables.
   \describe{
-    \item{\code{PipeAge}}{pipe age in years. This is the average age of pipes of a particular diameter.}
+    \item{\code{PipeAge}}{Pipe age in years. This is the average age of pipes of a particular diameter.}
     \item{\code{NBreaks}}{The number of main breaks in a year}
     \item{\code{Diameter}}{Pipe diameter in millimeter}
     \item{\code{Length}}{Pipe length in kilometer}
