@@ -2,7 +2,7 @@
 \alias{Mainbreak}
 \docType{data}
 \title{
-Number of main breaks in each of 20 years
+Number of Main Breaks in Each of 20 Years
 }
 \description{
 Number of main breaks of pipes of various diameters and lengths in a Florida city from 1999 to 2019.
